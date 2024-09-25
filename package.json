@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bryanavalossistemas/ulima-shop-backend/issues"
   },
-  "homepage": "https://github.com/bryanavalossistemas/ulima-shop-backend#readme"
+  "homepage": "https://github.com/bryanavalossistemas/ulima-shop-backend#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
