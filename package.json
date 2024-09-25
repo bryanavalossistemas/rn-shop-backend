@@ -1,0 +1,19 @@
+{
+  "name": "rn-shop-backend",
+  "version": "1.0.0",
+  "description": "Backend del software rn-shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanavalossistemas/ulima-shop-backend.git"
+  },
+  "author": "grupo-1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanavalossistemas/ulima-shop-backend/issues"
+  },
+  "homepage": "https://github.com/bryanavalossistemas/ulima-shop-backend#readme"
+}
